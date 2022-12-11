@@ -6,9 +6,10 @@ slideOptions:
 ---
 JuliaTokai \#13
 ===
+
 {%hackmd _6gkK4EVRrijGnUnS71_YA %}
 
-[![hackmd-github-sync-badge](https://hackmd.io/2dQPctSsQ9m0sJOG3-GZMg/badge)](https://hackmd.io/2dQPctSsQ9m0sJOG3-GZMg)
+[![hackmd-github-sync-badge](https://hackmd.io/v8E8FCetTjC-l18FlCBH6g/badge)](https://hackmd.io/v8E8FCetTjC-l18FlCBH6g)
 
 2022/12/18
 
