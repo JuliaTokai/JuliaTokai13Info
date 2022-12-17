@@ -59,6 +59,7 @@ Note:
 
 + antimon2: 細かすぎて伝わらないかもしれないJuliaのTips(仮)
 + Kgm1500: Juliaでお手軽ぷよぷよ画像認識
++ ごまふあざらし: [Pluto.jl 入門](https://terasakisatoshi.github.io/MathSeminar.jl/slideshow/pluto/build/#1)
 + …
 
 ---
