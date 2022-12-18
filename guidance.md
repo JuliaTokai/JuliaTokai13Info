@@ -57,7 +57,7 @@ Note:
 
 ## 本日の発表
 
-+ antimon2: 細かすぎて伝わらないかもしれないJuliaのTips(仮)
++ antimon2: [細かすぎて伝わらないかもしれないJuliaのTips](https://hackmd.io/@antimon2/H1WoZ-jOi)
 + Kgm1500: Juliaでお手軽ぷよぷよ画像認識
 + ごまふあざらし: [Pluto.jl 入門](https://terasakisatoshi.github.io/MathSeminar.jl/slideshow/pluto/build/#1)
 + ほりたみゅ: [紙を編んで曲面をつくろう！](https://hackmd.io/@hyrodium/BJiGL8ido#/1)
